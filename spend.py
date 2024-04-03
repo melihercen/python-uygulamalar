@@ -1,5 +1,4 @@
 import datetime
-import os
 class MoneyManager:
     def __init__(self):
         self.spends=[]
